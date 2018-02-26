@@ -4,5 +4,7 @@
 
 # This version: 0.0.1a
 
+![QrCode](https://raw.githubusercontent.com/DormantMan/Android/master/DmFirstAid/QrCode.png)
+
 #### [Download Apk](https://bit.ly/DmFirstAids)
 **Good luck!**
