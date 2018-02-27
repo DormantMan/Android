@@ -8,4 +8,6 @@
 ![QrCode](https://raw.githubusercontent.com/DormantMan/Android/master/DmFirstAid/QrCode150.png)
 
 #### [Download Apk](https://bit.ly/DmFirstAids)
+#### [Скачать установщик](https://bit.ly/DmFirstAids)
+
 **Good luck!**
