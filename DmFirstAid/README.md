@@ -7,8 +7,14 @@
 ### QrCode
 ![QrCode](https://raw.githubusercontent.com/DormantMan/Android/master/DmFirstAid/img/QrCode150.png)
 
-## Main Menu
-![QrCode](https://raw.githubusercontent.com/DormantMan/Android/master/DmFirstAid/img/menu.jpg =250x)
+## Main menu
+![Menu](https://raw.githubusercontent.com/DormantMan/Android/master/DmFirstAid/img/menu.jpg)
+
+## Some page
+![Page](https://raw.githubusercontent.com/DormantMan/Android/master/DmFirstAid/img/page.jpg)
+
+## Notification
+![Notif](https://raw.githubusercontent.com/DormantMan/Android/master/DmFirstAid/img/notif.jpg)
 
 #### [Download Apk](https://bit.ly/DmFirstAids)
 #### [Скачать установщик](https://bit.ly/DmFirstAids)
