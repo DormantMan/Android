@@ -8,7 +8,7 @@
 ![QrCode](https://raw.githubusercontent.com/DormantMan/Android/master/DmFirstAid/img/QrCode150.png)
 
 ## Main menu
-![Menu](https://raw.githubusercontent.com/DormantMan/Android/master/DmFirstAid/img/menu.jpg){:height="36px" width="36px"}
+![Menu](https://raw.githubusercontent.com/DormantMan/Android/master/DmFirstAid/img/menu.jpg)
 
 ## Some page
 ![Page](https://raw.githubusercontent.com/DormantMan/Android/master/DmFirstAid/img/page.jpg)
