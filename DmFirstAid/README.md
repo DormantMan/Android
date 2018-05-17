@@ -5,7 +5,10 @@
 # This version: 0.1.6
 
 ### QrCode
-![QrCode](https://raw.githubusercontent.com/DormantMan/Android/master/DmFirstAid/QrCode150.png)
+![QrCode](https://raw.githubusercontent.com/DormantMan/Android/master/DmFirstAid/img/QrCode150.png)
+
+## Main Menu
+![QrCode](https://raw.githubusercontent.com/DormantMan/Android/master/DmFirstAid/img/menu.jpg =250x)
 
 #### [Download Apk](https://bit.ly/DmFirstAids)
 #### [Скачать установщик](https://bit.ly/DmFirstAids)
